@@ -5,13 +5,6 @@
 ## Description
 
 An App theat auto-generates a professional markdown file using node.js within the terminal of Microsoft VS, GitBash or any other usable Terminal. 
-<br>
-<br>
-
-![Application Image](./screenshot.png)
-
-<br>
-<br>
 
 ## Table of Contents
 
